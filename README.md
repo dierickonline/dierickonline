@@ -15,17 +15,19 @@ the SAP ecosystem—that solve real-world problems and bring measurable value to
 ## Portfolio
 
 ### 📂 AI TravelApp
-* **The Challenge**: Automating creating of custom tailerd travel itineraries.
+**The Challenge:** Creating personalized, logic-driven travel itineraries manually is time-consuming.
+**The Solution:** Built a Python-based web app using the **OpenAI SDK** and **MySQL**.
+**The Result:** A live, production-ready platform at [Wanderbot.be](https://wanderbot.be).
 
-* **The Solution**: Developed a python website with OpenAI SDK and mySQL database.
+### 📧 AI Email Classifier (Private Repo)
+**The Challenge:** Managing high-velocity corporate email streams.
+**The Solution:** Developed a classification engine that uses LLMs to tag and route emails based on content and attachments
+**Key Tech:** Python, OpenAI & Mistral, SAP BTP, SAP AI Core.
 
-* **The Result**: Live website on [Wanderbot.be](https://www.wanderbot.be).
-
-### 📂 AI Email Classifier
-
-
-### 📂 Pileline Risk Map for utilities companies
-
+### 🗺️ Pipeline Risk Map for Utilities
+**The Challenge:** Visualizing infrastructure risk for utility companies by combining SAP asset data with external environmental factors and GIS information.
+**The Solution:** An AI-driven data pipeline that calculates "Probability of Failure" (PoF) scores.
+**Key Tech:** Python/node.js, Claude Code, SAP BTP
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/steven-dierick-57b1112/)
