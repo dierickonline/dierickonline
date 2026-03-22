@@ -13,6 +13,16 @@ the SAP ecosystem—that solve real-world problems and bring measurable value to
   
 ## Portfolio
 
-### AI TravelApp
-### AI Email Classifier
-### Pileline Risk Map for utilities companies
+### 📂 AI TravelApp
+* **The Challenge**: Automating creating of custom tailerd travel itineraries.
+
+* **The Solution**: Developed a python website with OpenAI SDK and mySQL database.
+
+* **The Result**: Live website on Wanderbot.be.
+
+### 📂 AI Email Classifier
+
+
+### 📂 Pileline Risk Map for utilities companies
+
+
