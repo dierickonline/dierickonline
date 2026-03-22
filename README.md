@@ -14,7 +14,7 @@ the SAP ecosystem—that solve real-world problems and bring measurable value to
   
 ## Portfolio
 
-### 📂 AI TravelApp
+### 🌍 AI TravelApp
 **The Challenge:** Creating personalized, logic-driven travel itineraries manually is time-consuming.
 **The Solution:** Built a Python-based web app using the **OpenAI SDK** and **MySQL**.
 **The Result:** A live, production-ready platform at [Wanderbot.be](https://wanderbot.be).
