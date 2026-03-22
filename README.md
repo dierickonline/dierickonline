@@ -14,26 +14,26 @@ the SAP ecosystem—that solve real-world problems and bring measurable value to
   
 ## Portfolio
 
-### 🌍 AI TravelApp
-**The Challenge:** Creating personalized, logic-driven travel itineraries manually is time-consuming.
-
-**The Solution:** Built a Python-based web app using the **OpenAI SDK** and **MySQL**.
-
+### 🌍 AI TravelApp (Private Repo)
+**The Challenge:** Creating personalized, logic-driven travel itineraries manually is time-consuming.<br>
+**The Solution:** Built a Python-based web app using the **OpenAI SDK** and **MySQL**.<br>
 **The Result:** A live, production-ready platform at [Wanderbot.be](https://wanderbot.be).
 
 ### 📧 AI Email Classifier (Private Repo)
-**The Challenge:** Managing high-velocity corporate email streams.
-
-**The Solution:** Developed a classification engine that uses LLMs to tag and route emails based on content and attachments
-
+**The Challenge:** Managing high-velocity corporate email streams.<br>
+**The Solution:** Developed a classification engine that uses LLMs to tag and route emails based on content and attachments<br>
 **Key Tech:** Python, OpenAI & Mistral, SAP BTP, SAP AI Core.
 
-### 🗺️ Pipeline Risk Map for Utilities
-**The Challenge:** Visualizing infrastructure risk for utility companies by combining SAP asset data with external environmental factors and GIS information.
-
-**The Solution:** An AI-driven data pipeline that calculates "Probability of Failure" (PoF) scores.
-
+### 🗺️ Pipeline Risk Map for Utilities (Private Repo)
+**The Challenge:** Visualizing infrastructure risk for utility companies by combining SAP asset data with external environmental factors and GIS information.<br>
+**The Solution:** An AI-driven data pipeline that calculates "Probability of Failure" (PoF) scores.<br>
 **Key Tech:** Python/node.js, Claude Code, SAP BTP
+
+### 📂 Drone-Based Rust Detection for High-Voltage Infrastructure (Public Repo)
+**The Challenge**: Inspecting high-voltage towers is dangerous and costly. Manual review of thousands of drone images to find corrosion is slow and prone to human error.<br>
+**The Solution**: Developed a deep learning pipeline using a Hugging Face Transformer model (Object Detection) fine-tuned to identify and localize rust patches on galvanized steel structures.<br>
+**Technical Highlight**: Leveraged Vision Transformers (ViT) to capture long-range dependencies in image data, allowing for more accurate detection of small rust spots compared to traditional CNNs.<br>
+**The Result**: Automated the pre-screening of inspection footage, prioritizing towers that require immediate maintenance and reducing manual review time
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/steven-dierick-57b1112/)
