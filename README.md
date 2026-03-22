@@ -35,7 +35,7 @@ the SAP ecosystem—that solve real-world problems and bring measurable value to
 * **Technical Highlight**: Leveraged Vision Transformers (ViT) to capture long-range dependencies in image data, allowing for more accurate detection of small rust spots compared to traditional CNNs.
 * **The Result**: Automated the pre-screening of inspection footage, prioritizing towers that require immediate maintenance and reducing manual review time
 
-### 📈 Trading Platform — Interactive Brokers ([Private Repo](https://github.com/dierickonline/TradingApp))
+### 📈 Trading Platform — Interactive Brokers ([Public Repo](https://github.com/dierickonline/TradingApp))
 * **The Challenge:** Manually managing bracket orders, tracking live P&L, and executing rule-based strategies across multiple instruments is error-prone and slow.
 * **The Solution:** Built a full-featured desktop trading application in Python/PyQt6, connected to Interactive Brokers via the TWS API, supporting live market data, automated order management.
 * **Key Features:** Real-time position tracking with live P&L, bracket order management, a persistent trade logbook (SQLite).
