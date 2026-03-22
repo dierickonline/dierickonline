@@ -16,17 +16,23 @@ the SAP ecosystem—that solve real-world problems and bring measurable value to
 
 ### 🌍 AI TravelApp
 **The Challenge:** Creating personalized, logic-driven travel itineraries manually is time-consuming.
+
 **The Solution:** Built a Python-based web app using the **OpenAI SDK** and **MySQL**.
+
 **The Result:** A live, production-ready platform at [Wanderbot.be](https://wanderbot.be).
 
 ### 📧 AI Email Classifier (Private Repo)
 **The Challenge:** Managing high-velocity corporate email streams.
+
 **The Solution:** Developed a classification engine that uses LLMs to tag and route emails based on content and attachments
+
 **Key Tech:** Python, OpenAI & Mistral, SAP BTP, SAP AI Core.
 
 ### 🗺️ Pipeline Risk Map for Utilities
 **The Challenge:** Visualizing infrastructure risk for utility companies by combining SAP asset data with external environmental factors and GIS information.
+
 **The Solution:** An AI-driven data pipeline that calculates "Probability of Failure" (PoF) scores.
+
 **Key Tech:** Python/node.js, Claude Code, SAP BTP
 
 ## 📫 Let's Connect
