@@ -10,6 +10,7 @@ Claude Code Certification (Foundation) to integrate advanced LLM reasoning into 
    
 🔭 **My Mission**: I am eager to collaborate on diverse AI projects—both within and outside 
 the SAP ecosystem—that solve real-world problems and bring measurable value to the customer.
+
   
 ## Portfolio
 
@@ -18,7 +19,7 @@ the SAP ecosystem—that solve real-world problems and bring measurable value to
 
 * **The Solution**: Developed a python website with OpenAI SDK and mySQL database.
 
-* **The Result**: Live website on Wanderbot.be.
+* **The Result**: Live website on [Wanderbot.be](https://www.wanderbot.be).
 
 ### 📂 AI Email Classifier
 
@@ -26,3 +27,6 @@ the SAP ecosystem—that solve real-world problems and bring measurable value to
 ### 📂 Pileline Risk Map for utilities companies
 
 
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/steven-dierick-57b1112/)
+- [Personal Website](https://wanderbot.be)
