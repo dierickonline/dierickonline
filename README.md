@@ -29,7 +29,7 @@ the SAP ecosystem—that solve real-world problems and bring measurable value to
 * **The Solution:** An AI-driven data pipeline that calculates "Probability of Failure" (PoF) scores.
 * **Key Tech:** Python/node.js, Claude Code, SAP BTP
 
-### 📂 Drone-Based Rust Detection for High-Voltage Infrastructure ([Public Repo](https://github.com/dierickonline/RustDetection))
+### 📂 Rust Detection for High-Voltage Infrastructure ([Public Repo](https://github.com/dierickonline/RustDetection))
 * **The Challenge**: Inspecting high-voltage towers is dangerous and costly. Manual review of thousands of drone images to find corrosion is slow and prone to human error.
 * **The Solution**: Developed a deep learning pipeline using a Hugging Face Transformer model (Object Detection) fine-tuned to identify and localize rust patches on galvanized steel structures.
 * **Technical Highlight**: Leveraged Vision Transformers (ViT) to capture long-range dependencies in image data, allowing for more accurate detection of small rust spots compared to traditional CNNs.
